@@ -55,9 +55,10 @@ Here is the list of strings that are allowed in the `license` field of the JSON:
 - `"sil"`: SIL Open Font License
 
 Then, in your Java code, the thing is made simply:
+
 ```java
         String myFabulousFormattedLicensingHTML =
-                        Acknowledger.with(this)
+                Acknowledger.with(this)
                         .load(R.raw.licenses)
                         .asHtml();
 ```
