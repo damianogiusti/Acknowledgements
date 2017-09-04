@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Dagger 2",
+    "url": "https://github.com/google/dagger/",
+    "copyright": "Copyright 2012 The Dagger Authors",
+    "license": "apache2"
+  },
+  {
+    "name": "Retrofit",
+    "url": "https://github.com/square/retrofit",
+    "copyright": "Copyright 2013 Square, Inc.",
+    "license": "apache2"
+  }
+]

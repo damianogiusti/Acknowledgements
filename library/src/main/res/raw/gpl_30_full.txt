@@ -103,7 +103,7 @@ a computer network, with no transfer of a copy, is not conveying.</p>
 
 <p>An interactive user interface displays &ldquo;Appropriate Legal Notices&rdquo;
 to the extent that it includes a convenient and prominently visible
-feature that (1) displays an appropriate copyright notice, and (2)
+feature that (1) displays an appropriate copyright artifact, and (2)
 tells the user that there is no warranty for the work (except to the
 extent that warranties are provided), that licensees may convey the
 work under this License, and how to view a copy of this License.  If
@@ -197,7 +197,7 @@ technological measures.</p>
 
 <p>You may convey verbatim copies of the Program's source code as you
 receive it, in any medium, provided that you conspicuously and
-appropriately publish on each copy an appropriate copyright notice;
+appropriately publish on each copy an appropriate copyright artifact;
 keep intact all notices stating that this License and any
 non-permissive terms added in accord with section 7 apply to the code;
 keep intact all notices of the absence of any warranty; and give all
@@ -394,7 +394,7 @@ that material) supplement the terms of this License with terms:</p>
 
 <p>All other non-permissive additional terms are considered &ldquo;further
 restrictions&rdquo; within the meaning of section 10.  If the Program as you
-received it, or any part of it, contains a notice stating that it is
+received it, or any part of it, contains a artifact stating that it is
 governed by this License along with a term that is a further
 restriction, you may remove that term.  If a license document contains
 a further restriction but permits relicensing or conveying under this
@@ -404,7 +404,7 @@ not survive such relicensing or conveying.</p>
 
 <p>If you add terms to a covered work in accord with this section, you
 must place, in the relevant source files, a statement of the
-additional terms that apply to those files, or a notice indicating
+additional terms that apply to those files, or a artifact indicating
 where to find the applicable terms.</p>
 
 <p>Additional terms, permissive or non-permissive, may be stated in the
@@ -429,9 +429,9 @@ prior to 60 days after the cessation.</p>
 <p>Moreover, your license from a particular copyright holder is
 reinstated permanently if the copyright holder notifies you of the
 violation by some reasonable means, this is the first time you have
-received notice of violation of this License (for any work) from that
+received artifact of violation of this License (for any work) from that
 copyright holder, and you cure the violation prior to 30 days after
-your receipt of the notice.</p>
+your receipt of the artifact.</p>
 
 <p>Termination of your rights under this section does not terminate the
 licenses of parties who have received copies or rights from you under
@@ -636,7 +636,7 @@ free software which everyone can redistribute and change under these terms.</p>
 <p>To do so, attach the following notices to the program.  It is safest
 to attach them to the start of each source file to most effectively
 state the exclusion of warranty; and each file should have at least
-the &ldquo;copyright&rdquo; line and a pointer to where the full notice is found.</p>
+the &ldquo;copyright&rdquo; line and a pointer to where the full artifact is found.</p>
 
 <pre>    &lt;one line to give the program's name and a brief idea of what it does.&gt;
     Copyright (C) &lt;year&gt;  &lt;name of author&gt;
@@ -658,7 +658,7 @@ the &ldquo;copyright&rdquo; line and a pointer to where the full notice is found
 <p>Also add information on how to contact you by electronic and paper mail.</p>
 
 <p>If the program does terminal interaction, make it output a short
-notice like this when it starts in an interactive mode:</p>
+artifact like this when it starts in an interactive mode:</p>
 
 <pre>    &lt;program&gt;  Copyright (C) &lt;year&gt;  &lt;name of author&gt;
     This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.

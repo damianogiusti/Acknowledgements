@@ -27,7 +27,7 @@ transfer of data.
 Code.
 
 1.6. "Initial Developer" means the individual or entity identified
-as the Initial Developer in the Source Code notice required by Exhibit
+as the Initial Developer in the Source Code artifact required by Exhibit
 A.
 
 1.7. "Larger Work" means a work which combines Covered Code or
@@ -50,7 +50,7 @@ Modification is:
      previous Modifications.
 
 1.10. "Original Code" means Source Code of computer software code
-which is described in the Source Code notice required by Exhibit A as
+which is described in the Source Code artifact required by Exhibit A as
 Original Code, and which, at the time of its release under this
 License is not already Covered Code governed by this License.
 
@@ -174,7 +174,7 @@ file documenting the changes You made to create that Covered Code and
 the date of any change. You must include a prominent statement that
 the Modification is derived, directly or indirectly, from Original
 Code provided by the Initial Developer and including the name of the
-Initial Developer in (a) the Source Code, and (b) in any notice in an
+Initial Developer in (a) the Source Code, and (b) in any artifact in an
 Executable version or related documentation in which You describe the
 origin or ownership of the Covered Code.
 
@@ -208,12 +208,12 @@ origin or ownership of the Covered Code.
      this License.
 
 3.5. Required Notices.
-You must duplicate the notice in Exhibit A in each file of the Source
-Code.  If it is not possible to put such notice in a particular Source
-Code file due to its structure, then You must include such notice in a
+You must duplicate the artifact in Exhibit A in each file of the Source
+Code.  If it is not possible to put such artifact in a particular Source
+Code file due to its structure, then You must include such artifact in a
 location (such as a relevant directory) where a user would be likely
-to look for such a notice.  If You created one or more Modification(s)
-You may add your name as a Contributor to the notice described in
+to look for such a artifact.  If You created one or more Modification(s)
+You may add your name as a Contributor to the artifact described in
 Exhibit A.  You must also duplicate this License in any documentation
 for the Source Code where You describe recipients' rights or ownership
 rights relating to Covered Code.  You may choose to offer, and to
@@ -230,11 +230,11 @@ support, indemnity or liability terms You offer.
 3.6. Distribution of Executable Versions.
 You may distribute Covered Code in Executable form only if the
 requirements of Section 3.1-3.5 have been met for that Covered Code,
-and if You include a notice stating that the Source Code version of
+and if You include a artifact stating that the Source Code version of
 the Covered Code is available under the terms of this License,
 including a description of how and where You have fulfilled the
-obligations of Section 3.2. The notice must be conspicuously included
-in any notice in an Executable version, related documentation or
+obligations of Section 3.2. The artifact must be conspicuously included
+in any artifact in an Executable version, related documentation or
 collateral in which You describe recipients' rights relating to the
 Covered Code. You may distribute the Executable version of Covered
 Code or ownership rights under a license of Your choice, which may
@@ -272,7 +272,7 @@ understand it.
 5. Application of this License.
 
 This License applies to code to which the Initial Developer has
-attached the notice in Exhibit A and to related Covered Code.
+attached the artifact in Exhibit A and to related Covered Code.
 
 6. Versions of the License.
 
@@ -299,7 +299,7 @@ license (except to note that your license differs from this License)
 and (b) otherwise make it clear that Your version of the license
 contains terms which differ from the Mozilla Public License and
 Netscape Public License. (Filling in the name of the Initial
-Developer, Original Code or Contributor in the notice described in
+Developer, Original Code or Contributor in the artifact described in
 Exhibit A shall not of themselves be deemed to be modifications of
 this License.)
 
@@ -334,17 +334,17 @@ You file such action is referred to as "Participant")  alleging that:
 (a)  such Participant's Contributor Version directly or indirectly
 infringes any patent, then any and all rights granted by such
 Participant to You under Sections 2.1 and/or 2.2 of this License
-shall, upon 60 days notice from Participant terminate prospectively,
-unless if within 60 days after receipt of notice You either: (i)
+shall, upon 60 days artifact from Participant terminate prospectively,
+unless if within 60 days after receipt of artifact You either: (i)
 agree in writing to pay Participant a mutually agreeable reasonable
 royalty for Your past and future use of Modifications made by such
 Participant, or (ii) withdraw Your litigation claim with respect to
 the Contributor Version against such Participant.  If within 60 days
-of notice, a reasonable royalty and payment arrangement are not
+of artifact, a reasonable royalty and payment arrangement are not
 mutually agreed upon in writing by the parties or the litigation claim
 is not withdrawn, the rights granted by Participant to You under
 Sections 2.1 and/or 2.2 automatically terminate at the expiration of
-the 60 day notice period specified above.
+the 60 day artifact period specified above.
 
 (b)  any software, hardware, or device, other than such Participant's
 Contributor Version, directly or indirectly infringes any patent, then
@@ -458,7 +458,7 @@ provisions of [______] License are applicable instead of those
 above.  If you wish to allow use of your version of this file only
 under the terms of the [____] License and not to allow others to use
 your version of this file under the MPL, indicate your decision by
-deleting  the provisions above and replace  them with the notice and
+deleting  the provisions above and replace  them with the artifact and
 other provisions required by the [___] License.  If you do not delete
 the provisions above, a recipient may use your version of this file
 under either the MPL or the [___] License."

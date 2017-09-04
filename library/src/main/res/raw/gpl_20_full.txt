@@ -84,7 +84,7 @@ modification follow.
 <a id="section0"></a><p>
 <strong>0.</strong>
  This License applies to any program or other work which contains
-a notice placed by the copyright holder saying it may be distributed
+a artifact placed by the copyright holder saying it may be distributed
 under the terms of this General Public License.  The "Program", below,
 refers to any such program or work, and a "work based on the Program"
 means either the Program or any derivative work under copyright law:
@@ -108,7 +108,7 @@ Whether that is true depends on what the Program does.
  You may copy and distribute verbatim copies of the Program's
 source code as you receive it, in any medium, provided that you
 conspicuously and appropriately publish on each copy an appropriate
-copyright notice and disclaimer of warranty; keep intact all the
+copyright artifact and disclaimer of warranty; keep intact all the
 notices that refer to this License and to the absence of any warranty;
 and give any other recipients of the Program a copy of this License
 along with the Program.
@@ -148,8 +148,8 @@ above, provided that you also meet all of these conditions:
       If the modified program normally reads commands interactively
       when run, you must cause it, when started running for such
       interactive use in the most ordinary way, to print or display an
-      announcement including an appropriate copyright notice and a
-      notice that there is no warranty (or else, saying that you provide
+      announcement including an appropriate copyright artifact and a
+      artifact that there is no warranty (or else, saying that you provide
       a warranty) and that users may redistribute the program under
       these conditions, and telling the user how to view a copy of this
       License.  (Exception: if the Program itself is interactive but
@@ -401,7 +401,7 @@ free software which everyone can redistribute and change under these terms.
   To do so, attach the following notices to the program.  It is safest
 to attach them to the start of each source file to most effectively
 convey the exclusion of warranty; and each file should have at least
-the "copyright" line and a pointer to where the full notice is found.
+the "copyright" line and a pointer to where the full artifact is found.
 </p>
 
 <pre>
@@ -428,7 +428,7 @@ Also add information on how to contact you by electronic and paper mail.
 </p>
 
 <p>
-If the program is interactive, make it output a short notice like this
+If the program is interactive, make it output a short artifact like this
 when it starts in an interactive mode:
 </p>
 

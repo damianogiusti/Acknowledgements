@@ -178,7 +178,7 @@ subject to and limited by the following restrictions:
     the terms of the License. This Section 4(a) applies to the Work as
     incorporated in a Collection, but this does not require the Collection
     apart from the Work itself to be made subject to the terms of this
-    License. If You create a Collection, upon notice from any Licensor You
+    License. If You create a Collection, upon artifact from any Licensor You
     must, to the extent practicable, remove from the Collection any credit
     as required by Section 4(b), as requested.
  b. If You Distribute, or Publicly Perform the Work or Collections, You
@@ -188,12 +188,12 @@ subject to and limited by the following restrictions:
     Author (or pseudonym, if applicable) if supplied, and/or if the
     Original Author and/or Licensor designate another party or parties
     (e.g., a sponsor institute, publishing entity, journal) for
-    attribution ("Attribution Parties") in Licensor's copyright notice,
+    attribution ("Attribution Parties") in Licensor's copyright artifact,
     terms of service or by other reasonable means, the name of such party
     or parties; (ii) the title of the Work if supplied; (iii) to the
     extent reasonably practicable, the URI, if any, that Licensor
     specifies to be associated with the Work, unless such URI does not
-    refer to the copyright notice or licensing information for the Work.
+    refer to the copyright artifact or licensing information for the Work.
     The credit required by this Section 4(b) may be implemented in any
     reasonable manner; provided, however, that in the case of a
     Collection, at a minimum such credit will appear, if a credit for all

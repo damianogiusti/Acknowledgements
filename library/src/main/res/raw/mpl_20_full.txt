@@ -17,14 +17,14 @@ Mozilla Public License Version 2.0
 
 1.4. "Covered Software"
     means Source Code Form to which the initial Contributor has attached
-    the notice in Exhibit A, the Executable Form of such Source Code
+    the artifact in Exhibit A, the Executable Form of such Source Code
     Form, and Modifications of such Source Code Form, in each case
     including portions thereof.
 
 1.5. "Incompatible With Secondary Licenses"
     means
 
-    (a) that the initial Contributor has attached the notice described
+    (a) that the initial Contributor has attached the artifact described
         in Exhibit B to the Covered Software; or
 
     (b) that the Covered Software was made available under the terms of
@@ -128,7 +128,7 @@ Contributor:
 
 This License does not grant any rights in the trademarks, service marks,
 or logos of any Contributor (except as may be necessary to comply with
-the notice requirements in Section 3.4).
+the artifact requirements in Section 3.4).
 
 2.4. Subsequent Licenses
 
@@ -242,9 +242,9 @@ non-compliance by some reasonable means prior to 60 days after You have
 come back into compliance. Moreover, Your grants from a particular
 Contributor are reinstated on an ongoing basis if such Contributor
 notifies You of the non-compliance by some reasonable means, this is the
-first time You have received notice of non-compliance with this License
+first time You have received artifact of non-compliance with this License
 from such Contributor, and You become compliant prior to 30 days after
-Your receipt of the notice.
+Your receipt of the artifact.
 
 5.2. If You initiate litigation against any entity by asserting a patent
 infringement claim (excluding declaratory judgment actions,
@@ -350,7 +350,7 @@ Licenses
 
 If You choose to distribute Source Code Form that is Incompatible With
 Secondary Licenses under the terms of this version of the License, the
-notice described in Exhibit B of this License must be attached.
+artifact described in Exhibit B of this License must be attached.
 
 Exhibit A - Source Code Form License Notice
 -------------------------------------------
@@ -359,10 +359,10 @@ Exhibit A - Source Code Form License Notice
   License, v. 2.0. If a copy of the MPL was not distributed with this
   file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-If it is not possible or desirable to put the notice in a particular
-file, then You may include the notice in a location (such as a LICENSE
+If it is not possible or desirable to put the artifact in a particular
+file, then You may include the artifact in a location (such as a LICENSE
 file in a relevant directory) where a recipient would be likely to look
-for such a notice.
+for such a artifact.
 
 You may add additional accurate notices of copyright ownership.
 
