@@ -73,6 +73,11 @@ Or maybe you directly want to show the HTML string into a WebView:
                 .into(webView);
 ```
 
+Screenshot
+----------
+
+<img src="screenshot.png" height="500">
+
 Credits
 -------
 
